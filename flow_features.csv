@@ -1,0 +1,47 @@
+sa,source address
+da,destination address
+pr,protocol (6 or 17)
+src_port,source port
+dst_port,destination port
+bytes_out,total bytes out
+num_pkts_out,total packets out
+bytes_in,total bytes in
+num_pkts_in,total packets in
+time_start,time stamp of first packet
+time_end,time stamp of last packet
+intervals_ccnt[],compact histogram of packet arriving intervals
+ack_psh_rst_syn_fin_cnt[],histogram of tcp flag counting
+hdr_distinct,number of distinct values of header lengths
+hdr_ccnt[],compact histogram of header lengths
+pld_distinct,number of distinct values of payload length
+pld_ccnt[],compact histogram of payload lengths
+hdr_mean,mean value of header lengths
+hdr_bin_40,number of packets whose header lengths are between 28 and 40
+pld_bin_128,number of packets whose payload lengths are below 128
+pld_bin_inf,number of packets whose payload lengths are above 1024
+pld_max,max value of payload length
+pld_mean,mean value of payload length
+pld_medium,medium value of payload length
+pld_var,variance value of payload length
+tls_cnt,number of tls packets
+tls_len[],array of tls payload length
+tls_cs_cnt,number of ciphersuits
+tls_cs[],array of ciphersuits value
+tls_ext_cnt,number of tls extensions
+tls_ext_types[],array of tls extensions
+tls_key_exchange_len,length of tls key exchange
+http_method,http request method
+http_uri,http request uri
+http_host,http request hostname
+http_code,http code
+http_content_type,http content_type
+http_content_len,http content length
+dns_query_cnt,number of dns query records
+dns_query_name_len[],array of dns query name lengths
+dns_query_name[],array of dns query names
+dns_query_type[],array of dns query types
+dns_query_class[],array of dns query classes
+dns_answer_cnt,number of dns answer records
+dns_answer_ttl[],array of dns answer “time to live” values
+dns_answer_ip[],array of dns answer ips
+rev_...,flow features of the reverse flow
