@@ -28,7 +28,7 @@ This challenge is organized by the Laboratory of Advanced Computer Architecture 
 ----------------
 
 ## Prize
-"?ANY PRIZE?"
+Cash prize will be awarded for the winners in each dataset. Amount to be determined.
 
 ----------------
 
