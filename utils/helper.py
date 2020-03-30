@@ -244,7 +244,7 @@ def read_anno_json_gz(filename, class_label_pairs=None):
         anno_sorted[k] = anno[k]
 
     # Encode the labels to integer values from 0 to n_classes-1
-    y_, class_label_pairs = encode_label(list(test_anno_sorted.values()), class_label_pairs)
+    y_, class_label_pairs = encode_label(list(anno_sorted.values()), class_label_pairs)
 
     return y_, class_label_pairs   
 
