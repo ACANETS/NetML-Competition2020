@@ -14,54 +14,28 @@ labels.txt file contains the name of the classes of each dataset for different l
     - readme.md
     - labels.txt
     * CICIDS2017
-        * 0_test-challenge_annotations
-            - 0_test-challenge_anno_fine.json.gz
-            - 0_test-challenge_anno_mid.json.gz
-            - 0_test-challenge_anno_top.json.gz
         * 0_test-challenge_set
             - 0_test-challenge_set.json.gz
-        * 1_test-std_annotations
-            - 1_test-std_anno_fine.json.gz
-            - 1_test-std_anno_mid.json.gz
-            - 1_test-std_anno_top.json.gz
         * 1_test-std_set
             - 1_test-std_set.json.gz
         * 2_training_annotations
             - 2_training_anno_fine.json.gz
-            - 2_training_anno_mid.json.gz
             - 2_training_anno_top.json.gz
         * 2_training_set
             - 2_training_set.json.gz
     * NetML
-        * 0_test-challenge_annotations
-            - 0_test-challenge_anno_fine.json.gz
-            - 0_test-challenge_anno_mid.json.gz
-            - 0_test-challenge_anno_top.json.gz
         * 0_test-challenge_set
             - 0_test-challenge_set.json.gz
-        * 1_test-std_annotations
-            - 1_test-std_anno_fine.json.gz
-            - 1_test-std_anno_mid.json.gz
-            - 1_test-std_anno_top.json.gz
         * 1_test-std_set
             - 1_test-std_set.json.gz
         * 2_training_annotations
             - 2_training_anno_fine.json.gz
-            - 2_training_anno_mid.json.gz
             - 2_training_anno_top.json.gz
         * 2_training_set
             - 2_training_set.json.gz
     * non-vpn2016
-        * 0_test-challenge_annotations
-            - 0_test-challenge_anno_fine.json.gz
-            - 0_test-challenge_anno_mid.json.gz
-            - 0_test-challenge_anno_top.json.gz
         * 0_test-challenge_set
             - 0_challenge_set.json.gz
-        * 1_test-std_annotations
-            - 1_test-std_anno_fine.json.gz
-            - 1_test-std_anno_mid.json.gz
-            - 1_test-std_anno_top.json.gz
         * 1_test-std_set
             - 1_test-std_set.json.gz
         * 2_training_annotations
