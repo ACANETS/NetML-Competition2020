@@ -12,7 +12,7 @@ Two different tasks, namely malware detection and traffic classification, are av
 - CICIDS2017 dataset is generated using https://www.unb.ca/cic/datasets/ids-2017.html
 - non-vpn2016 dataset is the subset of ISCX-VPN-nonVPN2016 dataset from https://www.unb.ca/cic/datasets/vpn.html
 
-For detailed description about the datasets please check our paper "LINK_TO_OUR_PAPER_COMING_SOON"
+For detailed description about the datasets please check our paper https://arxiv.org/abs/2004.13006
 
 Data for each dataset are available under the data folder in this repository. For NetML and CICIDS2017 datasets, two different annotations are available: top-level and fine-grained. Top-level annotations are for binary classification, i.e. benign or malware. For fine-grained, each dataset has different malware types and participants are required to label each flow according to their malware classes. For non-vpn2016, three level of annotations are available: top-level, mid-level and fine-grained. Annotations on the training sets are publicly available.
 
