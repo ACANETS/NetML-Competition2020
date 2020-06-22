@@ -244,7 +244,8 @@ where:
 - False Positive [FP] = your prediction is 1, and the ground truth is 0 - you predicted a positive, and that's false.
 - False Negative [FN] = your prediction is 0, and the ground truth is 1 - you predicted a negative, and that's false.
 
-mAP = 1/N\*(<!-- \sum_{}^{}(AP<sub>i</sub>)-->)
+![sigma](http://latex.codecogs.com/svg.latex?%5Csum_%7Bi%3D1%7D%5E%7B100%7Di)
+mAP = 1/N\*((#sigma)(AP<sub>i</sub>))
 
 where:
 
