@@ -244,7 +244,7 @@ where:
 - False Positive [FP] = your prediction is 1, and the ground truth is 0 - you predicted a positive, and that's false.
 - False Negative [FN] = your prediction is 0, and the ground truth is 1 - you predicted a negative, and that's false.
 
-mAP = 1/N\*($\sum_{}^{}(AP<sub>i</sub>)$)
+mAP = 1/N\*(<!-- \sum_{}^{}(AP<sub>i</sub>)-->)
 
 where:
 
