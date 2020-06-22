@@ -22,11 +22,10 @@ This challenge is organized by the Laboratory of Advanced Computer Architecture 
 
 ## Dates
 - February 17, 2020               NetML challenge is launched!
-- <del>June 1, 2020                    Submission deadline at 23:59:59 UTC</del>
-- <del>June 15, 2020                   Winners' announcement at the NetML Workshop, IJCAI 2020</del>
-```dif
-- Challenge submission deadline and date of winner's announcement is postponed TBD to comply with IJCAI 2020. Further updates will be done once we have any news from the conference. You may follow https://ijcai20.org/ to follow up with the conference and https://netaml.github.io/ for the workshop.
-```
+- *<del>June 1, 2020                    Submission deadline at 23:59:59 UTC</del>*
+- *<del>June 15, 2020                   Winners' announcement at the NetML Workshop, IJCAI* 2020</del>
+- **COVID-19 UPDATE !!! Challenge submission deadline and date of winner's announcement is postponed TBD to comply with IJCAI 2020. Further updates will be done once we have any news from the conference. You may follow https://ijcai20.org/ for the conference and https://netaml.github.io/ for the workshop updates.**
+
 ----------------
 
 ## Prize
