@@ -30,7 +30,7 @@ This challenge is organized by the Laboratory of Advanced Computer Architecture 
 ----------------
 
 ## Prize
-Cash prize will be awarded for the winners in each dataset. Amount to be determined.
+Cash prize will be awarded for the winners in each of seven tasks. Amount to be determined very soon.
 
 ----------------
 
@@ -38,7 +38,7 @@ Cash prize will be awarded for the winners in each dataset. Amount to be determi
 
 We have divided each dataset into 3 splits, test-challenge set, test-std set, and training set. Test-challenge set and test-std set are constructed by randomly extracting 10% of each class under fine-grained labels and the remaining 80% is left as training set. Annotations for training set is publicly available, but annotations for test-std and test-challenge tests will be private.
 
-There are 14 different phases you can participate in the challenge. First 7 phases are for development and last 7 phases are for the challenge. Development phase leaderboard will be public for participants to compare their team with other while challenge phase leaderboard will be announced after the challenge deadline. Below we describe each phase.
+There are 7 tracks, and each trach has two phases such as *dev* and *challenge*, making 14 different phases. First 7 phases are for development and last 7 phases are for the challenge. Development phase leaderboard will be public for participants to compare their team with other while challenge phase leaderboard will be announced after the challenge deadline. Below we describe each phase.
 
 ### 1- NetML_toplevel_dev
 You will use NetML training dataset to train you own model using top-level annotations (benign or malware) and submit your predictions on the NetML test-std set with a JSON file containing your results in the correct format described on the evaluation page.
@@ -84,7 +84,7 @@ You are expected to use fine-grained annotations (facebook_audio, facebook_chat,
 
 ----------------
 
-Three winners will be announced for each dataset. In order to win, participants need to attend the whole phases for any dataset. For example, a team must submit their results for non-vpn2016_toplevel_dev, non-vpn2016_midlevel_dev, non-vpn2016_finegrained_dev, non-vpn2016_toplevel_challenge, non-vpn2016_midlevel_challenge and non-vpn2016_finegrained_challenge. The final score will be calculated by averaging the 'overall' scores of test-challenge sets with different level of annotations.
+Three winners will be announced for each phase. In order to win the prize, for example for non-vpn2016 toplevel phase, a team must submit their results for both non-vpn2016_toplevel_dev and vpn2016_toplevel_challenge. The final score for each task will be calculated by averaging the 'overall' scores of both test-std and test-challenge sets.
 
 The evaluation page lists detailed information regarding how submissions will be scored. The evaluation servers are open. To enter the competition, first you need to create an account on EvalAI, developed by the CloudCV team. EvalAI is an open-source web platform designed for organizing and participating in challenges to push the state of the art on AI tasks.
 
