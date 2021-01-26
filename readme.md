@@ -30,7 +30,17 @@ This challenge is organized by the Laboratory of Advanced Computer Architecture 
 ----------------
 
 ## Prize
-Cash prize will be awarded for the winners in each of seven tracks. Amount to be determined very soon.
+$3000 prize will be awarded for the winners in each of seven tracks. The total amount is going to be split as shown below:
+
+| Tracks  |    Winner   | Runner-up | 2nd Runner-up |
+| ------- | ----------- | --------- | ------------- |
+|   #1    |     $150    |    $125   |     $100      |
+|   #2    |     $200    |    $150   |     $100      |
+|   #3    |     $150    |    $125   |     $100      |
+|   #4    |     $200    |    $150   |     $100      |
+|   #5    |     $200    |    $150   |     $100      |
+|   #6    |     $200    |    $150   |     $100      |
+|   #7    |     $200    |    $150   |     $100      |
 
 ----------------
 
@@ -84,7 +94,7 @@ You are expected to use fine-grained annotations (facebook_audio, facebook_chat,
 
 ----------------
 
-Three winners will be announced for each track. In order to win the prize, for example for non-vpn2016 toplevel track, a team must submit their results for both non-vpn2016_toplevel_dev and vpn2016_toplevel_challenge phases. The final score for each track will be calculated by averaging the 'overall' scores of both *dev* and *challenge* phases.
+Three prize winners (The Winner, Runner-up, 2nd Runner-up) will be announced for each track. In order to win the prize, for example for non-vpn2016 toplevel track, a team must submit their results for both non-vpn2016_toplevel_dev and vpn2016_toplevel_challenge phases. The final score for each track will be calculated by averaging the 'overall' scores of both *dev* and *challenge* phases.
 
 The evaluation page lists detailed information regarding how submissions will be scored. The evaluation servers are open. To enter the competition, first you need to create an account on EvalAI, developed by the CloudCV team. EvalAI is an open-source web platform designed for organizing and participating in challenges to push the state of the art on AI tasks.
 
