@@ -1,4 +1,20 @@
 # NetML Challenge 2020
+## Update as of July 21, 2021
+Dear Competition Participants,
+Since we announced the results of the Competition in March 2021, we have been in close contact with Intel Corporation, the sponsor of the competition to figure out the logistics of making the awards to the awardees who are from world-wide. Due to the COVID-19 pandemic and unforeseen complexity (e.g., the difference in rules and policies specific to geographic regions), the process of distributing the awards to recipients is significantly delayed. Although this is beyond our control unfortunately, we are diligently working with relevant Intel divisions and teams to resolve this as soon as we can.
+
+We again appreciate your patience. Please do not hesitate to email us (Yan_Luo@uml.edu and Onur_Barut@student.uml.edu) if you have additional questions.
+
+Thank you.
+
+NetML competition organizers:
+Yan Luo, UMass Lowell
+Tong Zhang, Intel Corporation
+Onur Barut, UMass Lowell
+Peilong Li, Elizabethtown College
+
+----------------
+
 ## Overview
 Recent progress in AI, Machine Learning and Deep Learning has demonstrated tremendous success in many application domains such as games and computer vision. Meanwhile, there are challenges of proliferating data flows and increasing malicious traffic on today’s Internet that call for advanced network traffic analysis tools. In this competition, we challenge the participants to leverage novel machine learning technologies to detect malicious flows and/or distinguish applications in a fine-grained fashion among network flows.
 
