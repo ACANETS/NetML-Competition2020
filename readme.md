@@ -8,9 +8,13 @@ We again appreciate your patience. Please do not hesitate to email us (Yan_Luo@u
 Thank you.
 
 NetML competition organizers:
+
 Yan Luo, UMass Lowell
+
 Tong Zhang, Intel Corporation
+
 Onur Barut, UMass Lowell
+
 Peilong Li, Elizabethtown College
 
 ----------------
