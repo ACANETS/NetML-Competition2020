@@ -1,5 +1,8 @@
 # NetML Challenge 2020
 ## Update as of July 21, 2021
+**We wanted to let the NetML awardees know that our sponsor Intel is still going through their internal process to issue the awards. The complexity lies in that the awardees are from different geographical regions, which have to be handled under different governing laws and policies. We have asked Intel to expedite and they are working on that. We appreciate your patience.**
+
+## Update as of July 21, 2021
 Dear Competition Participants,
 Since we announced the results of the Competition in March 2021, we have been in close contact with Intel Corporation, the sponsor of the competition to figure out the logistics of making the awards to the awardees who are from world-wide. Due to the COVID-19 pandemic and unforeseen complexity (e.g., the difference in rules and policies specific to geographic regions), the process of distributing the awards to recipients is significantly delayed. Although this is beyond our control unfortunately, we are diligently working with relevant Intel divisions and teams to resolve this as soon as we can.
 
