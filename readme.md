@@ -40,11 +40,35 @@ Two different tasks, namely malware detection and traffic classification, are av
 - CICIDS2017 dataset is generated using https://www.unb.ca/cic/datasets/ids-2017.html
 - non-vpn2016 dataset is the subset of ISCX-VPN-nonVPN2016 dataset from https://www.unb.ca/cic/datasets/vpn.html
 
-For detailed description about the datasets please check our paper https://arxiv.org/abs/2004.13006
-
 Data for each dataset are available under the data folder in this repository. For NetML and CICIDS2017 datasets, two different annotations are available: top-level and fine-grained. Top-level annotations are for binary classification, i.e. benign or malware. For fine-grained, each dataset has different malware types and participants are required to label each flow according to their malware classes. For non-vpn2016, three level of annotations are available: top-level, mid-level and fine-grained. Annotations on the training sets are publicly available.
 
 This challenge is organized by the Laboratory of Advanced Computer Architecture and Network Systems (ACANETS) at the University of Massachusetts Lowell, and sponsored by Intel Corporation. The results will be announced at NetML Challenge Workshop in IJCAI 2020.
+
+----------------
+
+## Reference
+For detailed description about the datasets please check our paper https://arxiv.org/abs/2004.13006
+
+If you find this study useful, please cite our paper:
+```
+@article{DBLP:journals/corr/abs-2004-13006,
+  author    = {Onur Barut and
+               Yan Luo and
+               Tong Zhang and
+               Weigang Li and
+               Peilong Li},
+  title     = {NetML: {A} Challenge for Network Traffic Analytics},
+  journal   = {CoRR},
+  volume    = {abs/2004.13006},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2004.13006},
+  eprinttype = {arXiv},
+  eprint    = {2004.13006},
+  timestamp = {Tue, 16 Feb 2021 15:53:52 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2004-13006.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
 
 ----------------
 
