@@ -1,5 +1,5 @@
 matplotlib==3.0.2
-numpy==1.18.0
+numpy==1.22.0
 pandas==0.24.2
 scapy==2.4.3
 scikit-image==0.10.1
